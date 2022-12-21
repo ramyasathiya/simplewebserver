@@ -41,7 +41,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](./image/webserver.png)
+![OUTPUT](./images/Out.png)
 
 ## RESULT:
-program is done
+The Program for Simple Webserver has been executed successfully
